@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "[App] Opera Max"
+date:   2016-02-18 18:00:00
+highlight: false
+author: jlelse
+image: /img/3.png
+---
+Opera Max is one of the apps I really really love, because of it's simple UI and all the great feautures.
+
+***Opera Max is a data-management and data-savings app that shrinks videos and photos on almost any app on mobile data connections, as well as Wi-Fi. Extend your data plan by up to 50% for free.***
+
+Although when this *50%* will never be reached I think the app has a good right to be here.
+
+In my opinion the app's most advantage is the data management. You can choose which apps are allowed to use your mobile plan / wifi and with the latest update also which apps are allowed to use internet in the background.
+
+You also have a great overview about which app used how much data and how much you saved with Opera Max.
+
+The app is very helpful if you have a small data plan and use much video / music streaming or social networking with apps like Instagram.
+
+<iframe src="https://www.youtube.com/embed/w9ybjpUR6sU" frameborder="0" allowfullscreen></iframe><br />
+
+<div class="pb-app-box" data-theme="light" data-lang="en"><a href="http://playboard.me/android/apps/com.opera.max.global">Opera Max - Data savings  (Playboard)</a> | <a href="https://play.google.com/store/apps/details?id=com.opera.max.global&hl=en" rel="nofollow" target="_blank">Opera Max - Data savings (Play Store)</a></div>
+<script type="text/javascript" src="//playboard.me/widgets/pb-app-box/1/pb_load_app_box.js"></script>
