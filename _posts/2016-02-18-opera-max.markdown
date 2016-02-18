@@ -6,9 +6,9 @@ highlight: false
 author: jlelse
 image: /img/3.png
 ---
-Opera Max is one of the apps I really really love, because of it's simple UI and all the great feautures.
+Opera Max is one of the apps I really really love, because of it's simple UI and all the great features.
 
-***Opera Max is a data-management and data-savings app that shrinks videos and photos on almost any app on mobile data connections, as well as Wi-Fi. Extend your data plan by up to 50% for free.***
+***Opera Max is a data-management and data-savings app that shrinks videos and photos on almost any app on mobile data connections, as well as WiFi. Extend your data plan by up to 50% for free.***
 
 Although when this *50%* will never be reached I think the app has a good right to be here.
 
