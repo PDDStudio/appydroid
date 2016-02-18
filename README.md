@@ -59,5 +59,5 @@ appydroid is licensed under the Apache 2.0 license
    limitations under the License.
 ```
 
-Jan-Lukas Else  
+jlelse  
 *Founder of appydroid*
