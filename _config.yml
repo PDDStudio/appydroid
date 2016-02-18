@@ -15,7 +15,7 @@ disqus_shortname: 'appydroidtk'
 
 # Build settings
 permalink: /:title
-markdown: redcarpet
+markdown: kramdown
 include: [_pages]
 exclude: [_site]
 sass:
