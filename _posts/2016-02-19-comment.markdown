@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "How to comment on appydroid..."
+date:   2016-02-19 18:00:00
+highlight: false
+author: jlelse
+image: /img/1.jpg
+---
+Often new news are reasons to share your own opionion related to this topic and discuss it with others.
+
+Appydroid, as online news magazine, offers you a good way to comment on posts.
+
+Thanks to [Disqus]() there's an comment field below every post.
+
+You don't have to create an seperate account for commenting on appydroid. Just login with Disqus, Facebook, Twitter or whatever...
+
+How's your opinion regarding to this comment feature? Or what do you think has to be improved on appydroid in general? Just write some words in the comment box below!
+
+jlelse  
+*Founder of appydroid*
