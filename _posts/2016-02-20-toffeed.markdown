@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "[App] Toffeed for Facebook"
+date:   2016-02-20 18:00:00
+highlight: false
+author: jlelse
+image: /img/5.png
+---
+The official app by Facebook for Android is a big bunch of bad coded code which makes your phone slow and uses very very much storage and much of your data plan.
+
+A good and small alternative to this app is *Toffeed for Facebook*, developed by *Jake Lane* and fully open sourced and available on [GitHub](https://github.com/JakeLane/Toffeed).
+
+The app is just 1.2 MB big and uses only a few permissions (and only necessary ones - in contrast to the official app). It's a wrapper so it'll show the mobile version of the Facebook page in a WebView but it also allows image uploading, location sharing and notifications.
+
+If you want to give it a try, download the app from [Google Play](https://play.google.com/store/apps/details?id=me.jakelane.wrapperforfacebook) or if you want to help improving the app check it out on [GitHub](https://github.com/JakeLane/Toffeed).
+
+<div class="pb-app-box" data-theme="light" data-lang="en"><a href="http://playboard.me/android/apps/me.jakelane.wrapperforfacebook">Toffeed for Facebook  (Playboard)</a> | <a href="https://play.google.com/store/apps/details?id=me.jakelane.wrapperforfacebook" rel="nofollow" target="_blank">Toffeed for Facebook (Play Store)</a></div>
+<script type="text/javascript" src="//playboard.me/widgets/pb-app-box/1/pb_load_app_box.js"></script>
