@@ -22,3 +22,6 @@ sass:
   style: compressed
 future: true
 timezone: Europe/Berlin
+
+gems:
+  - jekyll-sitemap
