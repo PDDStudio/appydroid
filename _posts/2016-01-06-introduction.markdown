@@ -4,6 +4,7 @@ title:  "appydroid - The first Open Source online news magazine about Android ap
 date:   2016-01-06 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/1.jpg
 ---
 What do you like the most on Android? Is it the great design, the great and active community, the amount of well created open source apps?

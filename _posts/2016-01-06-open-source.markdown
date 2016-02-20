@@ -4,6 +4,7 @@ title:  "appydroid - The thought of Open Source"
 date:   2016-01-06 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/1.jpg
 ---
 I think Open Source is an essential part of keeping a project active. In addition to this I really like networks like [Medium](http://medium.com) which enables everyone to publish own content.

@@ -4,6 +4,7 @@ title:  "appydroid - Contribution is welcomed"
 date:   2016-01-06 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/1.jpg
 ---
 Contribution to Open Source projects are great things. And to make the things clear before problems come I wrote this little instructions:

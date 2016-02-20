@@ -4,6 +4,7 @@ title:  "[App] Open Currency"
 date:   2016-01-07 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/2.png
 ---
 Did you ever visited a country with another currency in your home country? How did you manage the currency problem?

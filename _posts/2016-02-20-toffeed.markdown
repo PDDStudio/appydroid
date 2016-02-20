@@ -4,6 +4,7 @@ title:  "[App] Toffeed for Facebook"
 date:   2016-02-20 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/5.png
 ---
 The official app by Facebook for Android is a big bunch of bad coded code which makes your phone slow and uses very very much storage and much of your data plan.

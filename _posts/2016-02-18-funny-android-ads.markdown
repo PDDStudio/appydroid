@@ -4,6 +4,7 @@ title:  "[Video] Some funny Android ads you should know..."
 date:   2016-02-18 18:30:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/4.jpg
 ---
 Google produces a lot of Android ads and publishes them on YouTube (and shows them on TV). Here are some funny ones from the last time:

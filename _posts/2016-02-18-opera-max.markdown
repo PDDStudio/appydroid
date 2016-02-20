@@ -4,6 +4,7 @@ title:  "[App] Opera Max"
 date:   2016-02-18 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/3.png
 ---
 Opera Max is one of the apps I really really love, because of it's simple UI and all the great features.

@@ -4,6 +4,7 @@ title:  "How to comment on appydroid..."
 date:   2016-02-19 18:00:00
 highlight: false
 author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/1.jpg
 ---
 Often new news are reasons to share your own opionion related to this topic and discuss it with others.
