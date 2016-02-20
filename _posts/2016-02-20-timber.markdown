@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[App] Timber Music Player (Beta)"
+date:   2016-02-20 18:10:00
+highlight: false
+author: jlelse
+authorlink: https://plus.google.com/+Jan-LkElse
+image: /img/6.png
+---
+There are a couple of good music players on Google Play, many of them have a cool UI too. But the best, I think, is Timber.
+
+Timber is an completely open source music player app, which is currently still in beta (but very stable). In addition to this you'll get a great support because development seems to be very active.
+
+In my opinion the best thing is that you can choose the player layout. And you can also customize the UI colors.
+
+If you have an Android Wear watch or an Android Auto compatible car, Timber has support for them too.
+
+The app is just 6.3 MB big.
+
+If you want to give it a try, download the app from [Google Play](https://play.google.com/store/apps/details?id=naman14.timber) or if you want to help improving the app check it out on [GitHub](https://github.com/naman14/Timber).
+
+***By the way: If you know some other good apps, just leave a comment in the comment field! Thanks!***
+
+<div class="pb-app-box" data-theme="light" data-lang="en"><a href="http://playboard.me/android/apps/naman14.timber">Timber Music Player (Beta)  (Playboard)</a> | <a href="https://play.google.com/store/apps/details?id=naman14.timber" rel="nofollow" target="_blank">Timber Music Player (Beta) (Play Store)</a></div>
+<script type="text/javascript" src="//playboard.me/widgets/pb-app-box/1/pb_load_app_box.js"></script>
