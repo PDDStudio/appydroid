@@ -40,5 +40,26 @@ layout: default
     
     {% endif %}
 	{% endfor %}
+	
+  </div>
+  <div class="mdl-grid">
+	
+	<div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet" style="text-align: center">
+	  <a href="{{ paginator.previous_page_path }}">
+	    <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored">
+	      <i class="material-icons">arrow_back</i>
+	    </button>
+	  </a>
+	</div>
+	<div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet mdl-card__supporting-text" style="text-align: center">
+	  Page {{ paginator.page }} of {{ paginator.total_pages }}
+	</div>
+	<div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet" style="text-align: center">
+	  <a href="{{ paginator.next_page_path }}">
+	    <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored">
+	      <i class="material-icons">arrow_forward</i>
+	    </button>
+	  </a>
+	</div>
   </div>
 </div>
