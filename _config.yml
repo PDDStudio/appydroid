@@ -9,11 +9,13 @@ url: "https://appydroid.tk" # for production
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
+paginate: 6
 
 disqus: true
 disqus_shortname: 'appydroidtk'
 
 # Build settings
+paginate_path: "/page:num/"
 permalink: /:title
 markdown: kramdown
 include: [_pages]
@@ -25,3 +27,4 @@ timezone: Europe/Berlin
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
