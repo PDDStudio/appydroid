@@ -3,13 +3,14 @@ layout: default
 ---
 <div class="page-content">
   <div class="mdl-grid">
-    {% for post in paginator.posts %}
-    {% if post.highlight %}
+    {% for post in site.posts %}
+    {% if post.highlight %}{% if paginator.page == 1 %}
 
     <div class="section-highlight section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
       <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}></header>
       <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
         <div class="mdl-card__supporting-text">
+          <span>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • <a rel=“author“ href="{{ post.authorlink }}">{{ post.author }}</a>{% endif %}</span>
           <h4>{{ post.title }}</h4>
           <p>{{ post.excerpt }}</p>
         </div>
@@ -19,11 +20,13 @@ layout: default
       </div>
     </div>
 	
-	{% endif %}
+	{% endif %}{% endif %}
 	{% endfor %}
 	
+  </div>
+  <div class="mdl-grid">
+	
 	{% for post in paginator.posts %}
-    {% if post.highlight == false %}
 
     <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-desktop mdl-cell--4-col-tablet mdl-cell--12-col-phone">
       <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}>
@@ -38,7 +41,6 @@ layout: default
       </div>
     </div>
     
-    {% endif %}
 	{% endfor %}
 	
   </div>
