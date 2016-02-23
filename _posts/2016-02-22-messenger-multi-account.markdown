@@ -21,7 +21,7 @@ Here's how it works according to the [announcement post](https://www.facebook.co
 
 The main reason for this feature is not to add the possibility to manage multiple accounts more easy. It's directed to people who share their phone with their family etc..
 
-![Screenshot]({{ site.url }}/img/8.png)
+![Screenshot](/img/8.png)
 
 ***What do you think about this new feature? Leave a comment...***
 
