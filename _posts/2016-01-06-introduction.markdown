@@ -2,7 +2,7 @@
 layout: post
 title:  "appydroid - The first Open Source online news magazine about Android apps"
 date:   2016-01-06 18:00:00
-highlight: false
+highlight: true
 author: jlelse
 authorlink: https://plus.google.com/+Jan-LkElse
 image: /img/1.jpg
@@ -46,7 +46,7 @@ Contributing should be as easy as possible. To enable this appydroid is organize
 * You should have basic knowledge in managing git repositories, how to fork repositories and howto create pull requests
 * You should know how to write in Markdown
 
-To learn more about this read the article [Contibute](/contribute).
+To learn more about this read the article [Contribute](/contribute).
 
 #### License
 
